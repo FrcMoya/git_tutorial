@@ -1,4 +1,4 @@
 import os
 
-print("Impactrueno!!!!!!!!!!!!")
+print("Impactrueno!!")
 print("Es muy efectivo")
